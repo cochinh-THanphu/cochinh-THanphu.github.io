@@ -11,6 +11,3 @@ plugins:
       - CONTRIBUTING.md
       - ISSUE_TEMPLATE.md
       - PULL_REQUEST_TEMPLATE.md
-mathjax: true
-title: General Stuff
-description: Cognitive Load
