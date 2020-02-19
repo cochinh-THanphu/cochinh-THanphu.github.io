@@ -4,4 +4,7 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 
 Thử ABC xem sao update
 
+$ABC$ new
+New \(ABC\)
+
 \\(ABC\\) dắt heo đi dạo
