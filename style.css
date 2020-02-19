@@ -110,7 +110,7 @@ p {
     }
 
     .card > .card__image, .card > .card__description.inverse {
-        width: 60%;
+        width: 40%;
     }
 
     .card .card__image img {
