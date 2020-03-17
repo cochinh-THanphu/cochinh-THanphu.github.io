@@ -1,16 +1,24 @@
-plugins:
-  theme: jekyll-theme-minimal
-  relative_links:
-    enabled: true
-    collections: true
-    include:
-      - CONTRIBUTING.md
-      - README.md
-      - LICENSE.md
-      - COPYING.md
-      - CODE_OF_CONDUCT.md
-      - CONTRIBUTING.md
-      - ISSUE_TEMPLATE.md
-      - PULL_REQUEST_TEMPLATE.md
+# Setup
+title:            Lớp 1B - Trang thông tin
+description:      'Mathematics and friends'
+url:              truonghuynhmuni.github.io
+baseurl:          /
 
-title: Trường Tiểu học An Phú - Lớp 1.2
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+relative_links:
+  enabled: true
+  collections: true
+  include:
+    - CONTRIBUTING.md
+    - README.md
+    - LICENSE.md
+    - COPYING.md
+    - CODE_OF_CONDUCT.md
+    - CONTRIBUTING.md
+    - ISSUE_TEMPLATE.md
+    - PULL_REQUEST_TEMPLATE.md
