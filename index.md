@@ -18,4 +18,4 @@ title: Home
 * Đã cập nhật bài học cho tuần lễ 16/03/2020 đến 22/03/2020. Xin mời vào phần **[Ôn tập](/Review.html)** để tải về.
 Cô Chính sẽ cập nhật file chất lượng tốt, có thể in được cho quý phụ huynh sau. Sau khi cập nhật file mới, cô Chính sẽ gửi thông báo qua tin nhắn.
 
-> Phụ huynh có ý kiến ngoài việc gọi vào số điện thoại đã cung cấp, còn có thể gửi email về hòm thư lop12anphuq2@gmail.com.
+> Phụ huynh nếu có ý kiến, ngoài việc gọi vào số điện thoại đã cung cấp, còn có thể gửi email về hòm thư lop12anphuq2@gmail.com.
