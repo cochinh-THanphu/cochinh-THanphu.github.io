@@ -3,12 +3,14 @@ layout: default
 title: Home
 ---
 
-This is my homepage.
+Đây là trang thông tin của cô Chính dành cho quý phụ huynh lớp 1.2.
 
-> **Theorem.** Assume that $\mu \in \mathcal{M}(\Omega)$. Then the following equation
-\begin{equation}
-\mathcal{A}^s u = \mu \text{ in }\Omega, u = 0 \text{ on } \partial \Omega
-\end{equation}
-has a unique solution $u = \mathbb{G}_s^{\Omega}[\mu]$.
+Phụ huynh vào mục **[Ôn tập](/Review.html)** để tải bài về cho các em ôn tập.
 
-**Proof.**
+Phụ huynh vào mục
+
+
+
+**Thông báo**
+
+Đã cập nhật bài học cho tuần lễ 16/03/2020 đến 22/03/2020. Xin mời vào phần **[Ôn tập](/Review.html)**.
