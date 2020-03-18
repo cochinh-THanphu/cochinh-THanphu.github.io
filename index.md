@@ -7,11 +7,12 @@ title: Home
 
 * Phụ huynh vào mục **[Ôn tập](/Review.html)** để tải bài về cho các em ôn tập.
 
-* Phụ huynh vào mục
+* Phụ huynh vào mục **[Trò chơi](/review/img/ToMau.01.pdf)** để tải về tranh cho các em tô màu. Đây là hoạt động giúp các em vừa học vừa chơi. Cô Chính sẽ cập nhật thường xuyên các trò chơi để phụ huynh có thể tải về cho các em. Sau kì nghỉ, các em có thể mang tranh lên để trang trí lớp học.
+
+* Thông tin sức khoẻ (Đang cập nhật).
 
 
+**Thông báo mới.**
 
-**Thông báo mới**
-
-Đã cập nhật bài học cho tuần lễ 16/03/2020 đến 22/03/2020. Xin mời vào phần **[Ôn tập](/Review.html)** để tải về.
+* Đã cập nhật bài học cho tuần lễ 16/03/2020 đến 22/03/2020. Xin mời vào phần **[Ôn tập](/Review.html)** để tải về.
 Cô Chính sẽ cập nhật file chất lượng tốt, có thể in được cho quý phụ huynh sau. Sau khi cập nhật file mới, cô Chính sẽ gửi thông báo qua tin nhắn.
